@@ -1,0 +1,6 @@
+{
+  "name": "King Salman International Airport - ERT Roles Training",
+  "description": "Mobile-first corporate e-learning and evaluation platform on Emergency Response Team (ERT) roles for King Salman International Airport administrative personnel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
